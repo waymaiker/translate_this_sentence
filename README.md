@@ -37,7 +37,7 @@ class MyQuizComponent extends HookWidget {
      {
        "id": 0,
        "sentences": {"languageOne": "Ana sa yaay", 'languageTwo':'Comment va ta mère'},
-       "title": "Question 2",
+       "title": "Translate this sentence",
        "type": "translatethissentence",
        "result": -1
      },
